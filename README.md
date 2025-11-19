@@ -1,6 +1,6 @@
 # Introduction to tmux
 
-Access to material: https://kir-rescomp.github.io/training-intro-to-tmux/
+Access to material: [https://kir-rescomp.github.io/training-intro-to-tmux/](https://kir-rescomp.github.io/training-intro-to-tmux/)
 
 <p align="center">
   <img src="./docs/images/tmux_logo.png" alt="tmux logo" width="300">
